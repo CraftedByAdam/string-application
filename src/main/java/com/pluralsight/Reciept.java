@@ -4,6 +4,7 @@ public class Reciept {
     public static void main(String[] args) {
 
         System.out.println("Step 3");
+
         String item = "Omega Speedmaster";
         double price = 9000.00;
         int item_amount_bought = 1;
