@@ -3,7 +3,7 @@ package com.pluralsight;
 public class Reciept {
     public static void main(String[] args) {
 
-        System.out.println("Step 3");
+        System.out.println("Step 3:");
 
         String item = "Omega Speedmaster";
         double price = 9000.00;
